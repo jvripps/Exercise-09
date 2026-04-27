@@ -6,11 +6,11 @@ layout: default
 # Welcome to my COMP110 Website!
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="Exercise-09/static/imgs/average.png" alt="Image of Average Difficulty. "  width="500"/>
+<img src="static/imgs/average.png" alt="Image of Average Difficulty. "  width="500"/>
 
-<img src="Exercise-09/static/imgs/compsci_major.png" alt="Difficulty by CS Status" width="500" />
+<img src="static/imgs/compsci_major.png" alt="Difficulty by CS Status" width="500" />
 
-<img src="Exercise-09/static/imgs/course_difficulty.png" alt="Majors Difficulty Distribution" width="500" />>
+<img src="static/imgs/course_difficulty.png" alt="Majors Difficulty Distribution" width="500" />
 
 ## About Me
 Hi, my name is Jane Ripps! I am a first-year student at UNC Chapel Hill. I am interested in chemistry, neuroscience, and computer science.
@@ -31,15 +31,15 @@ The clearest comparison came from grouping students by computer science status. 
 
 ## Course Difficulty Reported by CS Majors
 
-![Course Difficulty Reported by CS Majors](compsci_major.png)
+![Computer Science Major or Minor](compsci_major.png)
 
 ## Average Difficulty by Major
 
-![Average Difficulty by Major](major_difficulty.png)
+![Average Difficulty by Major](average.png)
 
 ## Difficulty by Computer Science Status
 
-![Difficulty by Computer Science Status](cs_status_difficulty.png)
+![Difficulty by Computer Science Status](course_difficulty.png)
 
 ## Conclusion
 
